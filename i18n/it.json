@@ -1,0 +1,224 @@
+{
+  "LANG":"Italiano",
+
+  "PAGE":{
+		"HOME":{
+      "MENU":"",
+      "DEFINITION": "",
+      "POPUP":{
+        "TITLE":"",
+        "BODY":""
+      }
+    },
+    "JUDO":{
+      "MENU":"Judo",
+      "POPUP":{
+        "TITLE":"Judo",
+        "BODY":""
+      }
+    },
+    "JUJITSU":{
+      "MENU":"Jujitsu",
+      "POPUP":{
+        "TITLE":"",
+        "BODY":""
+      }
+    },
+    "GOSHIN":{
+      "MENU":"Goshin Jutsu",
+      "POPUP":{
+        "TITLE":"",
+        "BODY":""
+      }
+    },
+    "NAGENO":{
+      "MENU":"Nage no Kata",
+      "POPUP":{
+        "TITLE":"",
+        "BODY":""
+      }
+    },
+    "LEXICON":{
+      "MENU":"Lessico",
+      "POPUP":{
+        "TITLE":"Lessico",
+        "BODY":""
+      }
+    },
+    "EXPRESSION":{
+      "MENU":"",
+      "POPUP":{
+        "TITLE":"",
+        "BODY":""
+      }
+    },
+    "BUSHIDO":{
+      "MENU":"Bushido",
+      "POPUP":{
+        "TITLE":"",
+        "BODY":""
+      },
+      "VIRTUES":{
+        "TITLE":"",
+        "RIGHTEOUSNESS":{
+          "TITLE":" (義, Gi)",
+          "DESCRIPTION":""
+        },
+        "COURAGE":{
+          "TITLE":" (勇, Yū)",
+          "DESCRIPTION":""
+        },
+        "BENEVOLENCE":{
+          "TITLE":" (仁, Jin)",
+          "DESCRIPTION":""
+        },
+        "RESPECT":{
+          "TITLE":" (礼, Rei)",
+          "DESCRIPTION":""
+        },
+        "SINCERITY":{
+          "TITLE":" (誠, Makoto)",
+          "DESCRIPTION":""
+        },
+        "HONOR":{
+          "TITLE":" (名誉, Meiyō)",
+          "DESCRIPTION":""
+        },
+        "LOYALTY":{
+          "TITLE":" (忠義, Chūgi)",
+          "DESCRIPTION":""
+        },
+        "FOUNDER":{
+          "NAME":"<b>JIGORO KANO</b>",
+          "SUB-NAME":"",
+          "TITLE":"Jigorō Kanō (嘉納 治五郎, Kanō Jigorō)",
+          "DESCRIPTION":""
+        }
+      }
+    },
+    "CREDITS":{
+      "MENU":"",
+      "TITLE":"",
+      "DESCRIPTION":""
+    },
+    "RATE_MY_APP":{
+      "MENU":""
+    },
+    "NETWORK":{
+      "MENU":"",
+      "TITLE":""
+    }
+  },
+
+  "TECHNICAL":{
+    "ATEMI":{
+      "NANAME-TSUKI":""
+    },
+    "GOSHIN":{
+      "FAMILLE":{
+        "A":"A - ",
+        "B":"B - ",
+        "C":"C - ",
+        "D":"D - ",
+        "E":"E - "
+      },
+      "RYOTE-DORI":"Presa ai polsi",
+      "HIDARI-ERI-DORI":"Presa al bavero sinistro",
+      "MIGI-ERI-DORI":"Presa al bavero destro",
+      "KATA-UDE-DORI":"Presa al gomito",
+      "USHIRO-ERI-DORI":"Presa al bavero per dietro",
+      "USHIRO-JIME":"Soffocamento a mani nude per dietro",
+      "KAKAE-DORI":"Presa al corpo per dietro",
+      "NANAME-UCHI":"Colpo di taglio alla tempia sinistra",
+      "AGO-TSUKI":"Uppercut",
+      "GAMMEN-TSUKI":"Colpo diretto al viso",
+      "MAE-GERI":"Calcio ai testicoli",
+      "YOKO-GERI":"Calcio laterale",
+      "TSUKKAKE":"Difesa prima dell'attacco allo stomaco con il pugnale",
+      "CHOKU-TSUKI":"Attacco allo stomaco con il pugnale",
+      "NANAME-TSUKI":"Attacco laterale alla parte sinistra del collo con il pugnale",
+      "FURI-AGE":"Sollevamento del bastone",
+      "FURI-OROSHI":"Abbassamento del bastone",
+      "MOROTE-TSUKI":"Colpo allo stomaco con il bastone",
+      "SHOMEN-ZUKE":"Difesa da un attacco di pistola frontale",
+      "KOSHI-GAMAE":"Difesa da un attacco dì pistola sul fianco",
+      "HAIMEN-ZUKE":"Difesa da un attacco di pistola alle spalle"
+    },
+    "NAGE-NO-KATA":{
+      "FAMILLE":{
+        "A":"A - ",
+        "B":"B - ",
+        "C":"C - ",
+        "D":"D - ",
+        "E":"E - "
+      },
+      "UKI-OTOSHI":"",
+      "IPPON-SEOI-NAGE":"",
+      "KATA-GURUMA":"",
+      "UKI-GOSHI":"",
+      "HARAI-GOSHI":"",
+      "TSURI-KOMI-GOSHI":"",
+      "OKURI-ASHI-BARAI":"",
+      "SASAE-TSURI-KOMI-ASHI":"",
+      "UCHI-MATA":"",
+      "TOMOE-NAGE":"",
+      "URA-NAGE":"",
+      "SUMI-GAESHI":"",
+      "YOKO-GAKE":"",
+      "YOKO-GURUMA":"",
+      "UKI-WAZA":""
+    },
+    "JUJITSU":{
+      "FAMILLE":{
+        "A":"A - ",
+        "B":"B - ",
+        "C":"C - ",
+        "D":"D - "
+      },
+      "KATATE-DORI":"",
+      "ERI-DORI":"",
+      "MAE-DORI-KUBI":"",
+      "YOKO-DORI-KUBI":"",
+      "YOKO-SODE-TORI":"",
+      "MAE-DORI-A":"",
+      "MAE-DORI-B":"",
+      "YOKO-DORI-A":"",
+      "YOKO-DORI-B":"",
+      "HADAKA-JIME":"",
+      "JODAN-OIE-TSUKI":"",
+      "SHUDAN-GIAKU-TSUKI":"",
+      "JODAN-NANAME-SHUTO":"",
+      "SHUDAN-MAE-GERI-KEKOMI":"",
+      "SHUDAN-MAWAISHI-GERI":"",
+      "NANAME-TSUKI":"",
+      "SHUDAN-TSUKKOMI":"",
+      "NANAME-UCHI":"",
+      "KIRI-KOMI":"",
+      "YOKO-UCHI":""
+    }
+  },
+
+  "TXT_WHITE": "",
+  "TXT_YELLOW": "",
+  "TXT_ORANGE": "",
+  "TXT_GREEN": "",
+  "TXT_BLUE": "",
+  "TXT_BROWN": "",
+  "TXT_BLACK": "",
+
+  "TXT_ATEMIS": "Atemis",
+  "TXT_IMPOSED": "",
+  "TXT_CLOSE": "",
+
+  "TXT_LOADING": "",
+  "TXT_CEINTURE": "",
+  "TXT_ABOUT_ME": "",
+  "TXT_BUSHIDO": "Bushido",
+  "TXT_CREDITS": "",
+
+  "TXT_SEND_MAIL": "",
+
+  "TXT_CANCEL":"",
+  "TXT_SAVE":"",
+  "TXT_YES":""
+}

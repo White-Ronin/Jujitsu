@@ -1,0 +1,321 @@
+{
+  "LANG":"English",
+
+  "PAGE":{
+		"HOME":{
+      "MENU":"Home",
+      "DEFINITION": "The <b>ju-jitsu</b>, or <b>jujutsu</b> or <b>jiu-jitsu</b> (柔術, jujutsu, literally : « gentle art »), combines combat techniques that were developed during the Japan's feudal era by the samurai to defend themselves when they were disarmed.<p>These techniques are sometimes classified into four main categories:<br>- <b>Atemi-Waza</b> (<i>strike</i>),<br>- <b>Nage-Waza</b> (<i>projections</i>),<br>- <b>Kansetsu-Waza</b> (<i>dislocations</i>),<br>- <b>Ne-Waza</b> (<i>ground techniques</i>).</p>",
+      "POPUP":{
+        "TITLE":"Welcome",
+        "BODY":"Thank you for downloading my application.<br>At the top left you can find the \"<b>Menu</b>\".<br><br>A Web version exist at this address:<br><b><a href=\"https://jujitsu.whiteronin.xyz\" target=\"_blank\">jujitsu.whiteronin.xyz</a></b><br><br>To contact me:<br><b><a href=\"mailto:contact@whiteronin.xyz\">contact@whiteronin.xyz</a></b>"  
+      }
+    },
+    "JUDO":{
+      "MENU":"Judo",
+      "POPUP":{
+        "TITLE":"Judo (柔道 « gentle way »)",
+        "BODY":"Is generally categorized as a modern martial art, which has since evolved into a combat and Olympic sport. The sport was created in 1882 by Jigoro Kano (嘉納治五郎) as a physical, mental, and moral pedagogy in Japan.<p><i>In this screen you can find name of judo techniques sort by color.</p><p>Show a technique by <u>clicking on his name</u> and a <b>picture</b> will appear with a short descriptions.</i></p>"
+      }
+    },
+    "JUJITSU":{
+      "MENU":"Jujitsu",
+      "POPUP":{
+        "TITLE":"Jujitsu (柔術 « gentle art »)",
+        "BODY":"It is developed to combat the samurai of feudal Japan as a method for defeating an armed and armored opponent in which one uses no weapon, or only a short weapon.</p>It represents manipulating the opponent's force against himself rather than confronting it with one's own force.<p><i>In this screen you can find name of 20 jujitsu techniques.</p><p>Show a technique by <u>clicking on his name</u> and a <b>picture</b> will appear with a short descriptions.</i></p>"
+      }
+    },
+    "GOSHIN":{
+      "MENU":"Goshin Jutsu",
+      "POPUP":{
+        "TITLE":"Goshin Jutsu (講道館護身術 « Kodokan skills of self-defence »)",
+        "BODY":"It is a set of Kata that indicates self-defense principles and techniques applicable to modern society.<p>It is the most recent kKta of <b>Judo</b>, having been created in 1956.</p><p>These techniques enable one to defend with empty hand against either armed or unarmed attackers and are embodied the mutually cooperation concept of Judo that says:</p><p>'<i>stop the halberd, nish with minimum injury</i>'.</p>"
+      }
+    },
+    "NAGE-NO-KATA":{
+      "MENU":"Nage no Kata",
+      "POPUP":{
+        "TITLE":"Nage no Kata (投の形 « forms of throwing »)",
+        "BODY":"It is one of the two Randori-no-Kata (乱取りの形, free practice forms) of Kodokan <b>Judo</b>.<p>It is intended as an illustration of the various concepts of Nage-Waza (投げ技, throwing techniques) that exist in <b>Judo</b>, and is used both as a training method and as a demonstration of understanding.</p><p>It is made up of three representative techniques selected from:<br>. <b>Hand</b> (<i>Te-Waza</i>),<br>. <b>Hip</b> (<i>Koshi-Waza</i>),<br>. <b>Foot</b> (<i>Ashi-Waza</i>),<br>. <b>Rear sacrifice</b> (<i>Ma-Sutemi-Waza</i>),<br>. <b>Side sacrifice</b> (<i>Yoko-Sutemi-Waza</i>).</p><p>All of this technique are practice for both left and right sides.</p>"
+      }
+    },
+    "LEXICON":{
+      "MENU":"Lexicon",
+      "POPUP":{
+        "TITLE":"Lexicon",
+        "BODY":""
+      }
+    },
+    "SEARCH":{
+      "MENU":"Search",
+      "POPUP":{
+        "TITLE":"Search",
+        "BODY":""
+      }
+    },
+    "EXPRESSION":{
+      "MENU":"Technical Expression",
+      "POPUP":{
+        "TITLE":"Technical Expression",
+        "BODY":"You have to pass different UV defined for each grade.<br><br>UV1: Kata<br>UV2: Technical<br>UV3: Effectiveness<br>UV4: Personal commitment"
+      }
+    },
+    "BUSHIDO":{
+      "MENU":"Bushido",
+      "POPUP":{
+        "TITLE":"Bushido (武士道, « the way of the warrior »)",
+        "BODY":"This section is dedicated to <b>Bushido</b>, for «&nbsp;<i>Samurai</i>&nbsp;», it was more of a lifestyle, <b>Jujitsu</b> following this.<p><i>To learn more about one of the <b>7 virtues</b>, or more about <b>Jigorō Kanō</b>, click it's name.</i></p>"
+      },
+      "VIRTUES":{
+        "TITLE":"VIRTUES",
+        "RIGHTEOUSNESS":{
+          "TITLE":"Righteousness(義, Gi)",
+          "DESCRIPTION":"Is the ability to make the right decision with moral confidence and to be fair and equal towards all."
+        },
+        "COURAGE":{
+          "TITLE":"Courage (勇, Yū)",
+          "DESCRIPTION":"Is derived from love (慈 loving 故 causes 能 ability 勇 brave) and explains: \"One of courage, with audacity, will die. One of courage, but gentle, spares death. From these two kinds of courage arise harm and benefit.\""
+        },
+        "BENEVOLENCE":{
+          "TITLE":"Benevolence (仁 Jin)",
+          "DESCRIPTION":"Is a combination of compassion and generosity. It's goal is to focus on good and happiness for others."
+        },
+        "RESPECT":{
+          "TITLE":"Respect (礼, Rei)",
+          "DESCRIPTION":"It's a positive feeling a matter of courtesy and proper behaviour towards other."
+        },
+        "SINCERITY":{
+          "TITLE":"Sincerity (誠, Makoto)",
+          "DESCRIPTION":"Is the virtue of one who speaks and acts truly about his or her own feelings, beliefs, thoughts, and desires ; to be honest to oneself as much as to others."
+        },
+        "HONOR":{
+          "TITLE":"Honor (名誉, Meiyō)",
+          "DESCRIPTION":"Is sought with positive attitude in mind, but will only follow with correct behaviour. Success is an honourable goal to strive for."
+        },
+        "LOYALTY":{
+          "TITLE":"Loyalty (忠義, Chūgi)",
+          "DESCRIPTION":"It's devotion and faithfulness to a cause, country, group, or person."
+        },
+        "FOUNDER":{
+          "NAME":"<b>JIGORO KANO</b>",
+          "SUB-NAME":"Founder of Judo",
+          "TITLE":"Jigorō Kanō (嘉納 治五郎, Kanō Jigorō)",
+          "DESCRIPTION":"He born the 28 October 1860 (Migake Japan) and die the 4 May 1938 (on a boat at 77 year old).<p>He was a Japanese educator and athlete, the founder of <b>Judo</b>. <b>Judo</b> was the first Japanese martial art to gain widespread international recognition, and the first to become an official <b>Olympic sport</b>.</p><p>Pedagogical innovations attributed to <b>Kanō</b> include the use of black and white belts, and the introduction of dan ranking to show the relative ranking among members of a martial art style. Well-known mottoes attributed to <b>Kanō</b> include:</p><p>- '<i>Maximum Efficiency with Minimum Effort</i>'<br>(精力善用 Sei-ryoku Zen-you)<br>- '<i>Mutual Welfare and Benefit</i>'<br>(自他共栄 Ji-ta Kyou-ei).</p><p>In his professional life, <b>Kanō</b> was an educator. Important postings included serving as director of primary education for the <b>Ministry of Education</b> (文部省 Monbushō) from 1898 to 1901, and as president of <b>Tokyo Higher Normal School</b> from 1901 until 1920.</p><p>He played a key role in making <b>Judo</b> and <b>Kendo</b> part of the Japanese public school programs of the 1910's.</p><p><b>Kanō</b> was also a pioneer of international sports. Accomplishments included being the first Asian member of the <b>International Olympic Committee</b> (IOC) (he served from 1909 until 1938).</p><p>Officially representing Japan at most <b>Olympic Games</b> held between 1912 and 1936, and serving as a leading spokesman for Japan's bid for the 1940 <b>Olympic Games</b>.</p>"
+        }
+      }
+    },
+    "CREDITS":{
+      "MENU":"Credits",
+      "TITLE":"Special Thanks",
+      "DESCRIPTION":"<i>Belts training</i>:<br>Fabrice LEROUGE et Claude VANHALWYN<br><br><i>Corrected by</i>:<br>Isabelle BALAIRE, David VANDAELE et Loulou Gonzague BEGHIN<br><br><i>For my club</i>:<br><b><a href=\"https://www.marcqjudo.fr\" target=\"_blank\">MARCQ JUDO</a></b><br>7 Rue des Entrepreneurs, 59700 Marcq-en-Baroeul - France<br><br><i>For my friends</i>:<br>Who helped me during this adventure.<br><br><b>Long live Judo, long live Jujutsu!</b>"
+    },
+    "RATE_MY_APP":{
+      "MENU":"Rate my App!"
+    },
+    "NETWORK":{
+      "MENU":"Network",
+      "TITLE":"Find me on"
+    }
+  },
+
+  "TECHNICAL":{
+    "ATEMI":{
+      "DISCIPLINE":"Atemi",
+      "FAMILLE":{
+        "A":"Ashi / Hiza (foot or leg)",
+        "B":"Te / Hiji (hand or elbow)",
+        "C":"Atama (head)"
+      },
+      "MAE-GERI":"Front kick",
+      "YOKO-GERI":"Side Kick",
+      "USHIRO-GERI":"Rear kick",
+      "MAWASHI-GERI":"Spin kick",
+      "URA-MAWASHI-GERI":"Spin hook kick",
+      "MIKAZUKI-GERI":"Crescent kick",
+      "SHUTO":"Knifehand strike",
+      "HIGI":"Nudge",
+      "NANAME-TSUKI":"Circular punch",
+      "TEISHO":"Palm strikes",
+      "OIE-TSUKI":"Fist strikes, leg front side",
+      "GYAKU-TSUKI":"Fist strikes, leg back side",
+      "URA-UCHI":"Fist backhand",
+      "ATAMA":"Headbutt"
+    },
+    "GROUND":{
+      "DISCIPLINE":"Judo - Katame-Waza",
+      "FAMILLE":{
+        "A":"Osae-Komi-Waza (hold-down)",
+        "B":"Shime-Waza (strangling)",
+        "C":"Kansetsu-Waza (joint locks)"
+      },
+      "KAMI-SHIHO-GATAME":"Upper four-corner hold",
+      "KUZURE-KAMI-SHIHO-GATAME":"Modified upper four-corner hold",
+      "KESA-GATAME":"Scarf hold",
+      "KUZURE-KESA-GATAME":"Modified scarf hold",
+      "TATE-SHIHO-GATAME":"Straight four-corner hold",
+      "KUZURE-TATE-SHIHO-GATAME":"Modified straight four-corner hold",
+      "YOKO-SHIHO-GATAME":"Side four-corner hold",
+      "KUZURE-YOKO-SHIHO-GATAME":"Modified side four-corner hold",
+      "MAKURA-KESA-GATAME":"Pillow scarf hold",
+      "USHIRO-KESA-GATAME":"Rear scarf hold",
+      "KATA-GATAME":"Shoulder hold",
+      "URA-GATAME":"Back hold",
+      "UKI-GATAME":"Floating hold",
+      "GYAKU-JUJI-JIME":"Reverse cross strangle",
+      "HADAKA-JIME":"Naked strangle",
+      "KATA-HA-JIME":"One-hand strangle",
+      "KATA-JUJI-JIME":"Half cross strangle",
+      "NAMI-JUJI-JIME":"Normal cross strangle",
+      "OKURI-ERI-JIME":"Sliding collar strangle",
+      "SANKAKU-JIME":"Triangular strangle",
+      "DO-JIME":"Trunk strangle (prohibited technique)",
+      "KATA-TE-JIME":"One-hand strangle",
+      "RYO-TE-JIME":"Two-hand strangle",
+      "SODE-GURUMA-JIME":"Sleeve wheel strangle",
+      "TSUKKOMI-JIME":"Thrust choke",
+      "UDE-HISHIGI-JUJI-GATAME":"Cross lock",
+      "UDE-HISHIGI-UDE-GATAME":"Arm lock",
+      "UDE-HISHIGI-WAKI-GATAME":"Armpit lock",
+      "UDE-HISHIGI-HARA-GATAME":"Stomach lock",
+      "UDE-HISHIGI-ASHI-GATAME":"Leg lock",
+      "UDE-HISHIGI-HIZA-GATAME":"Knee lock",
+      "UDE-GARAMI":"Entangled arm lock",
+      "ASHI-GARAMI":"Leg entanglement (prohibited technique)"
+    },
+    "JUDO":{
+      "DISCIPLINE":"Judo - Nage-Waza",
+      "FAMILLE":{
+        "A":"Koshi-Waza (hip)",
+        "B":"Te-Waza (hand)",
+        "C":"Ashi-Waza (foot/leg)",
+        "D":"Sutemi-Waza (sacrifice)"
+      },
+      "HARAI-GOSHI":"Sweeping hip throw",
+      "KOSHI-GURUMA":"Hip wheel",
+      "O-GOSHI":"Large Hip Throw",
+      "UKI-GOSHI":"Floating hip throw",
+      "USHIRO-GOSHI":"Back hip throw",
+      "TSURI-KOMI-GOSHI":"Lift-pull hip throw",
+      "UCHI-MATA":"Inner thigh wraparound throw",
+      "IPPON-SEOI-NAGE":"Single-handed back throw",
+      "TAI-OTOSHI":"Body drop",
+      "MOROTE-SEOI-NAGE":"Two-hand reap",
+      "KATA-GURUMA":"Shoulder wheel",
+      "TE-GURUMA":"Hand wheel",
+      "UKI-OTOSHI":"Floating drop",
+      "KO-UCHI-GARI":"Small inner reap",
+      "O-SOTO-GARI":"Large outer reap",
+      "O-UCHI-GARI":"Large inner reap",
+      "ASHI-GURUMA":"Leg wheel",
+      "DE-ASHI-BARAI":"Forward foot sweep",
+      "KO-SOTO-GARI":"Small outer reap",
+      "HIZA-GURUMA":"Knee wheel",
+      "O-SOTO-OTOSHI":"Large outer drop",
+      "OKURI-ASHI-BARAI":"Foot sweep",
+      "SASAE-TSURI-KOMI-ASHI":"Supporting foot lift-pull throw",
+      "TSUBAME-GAESHI":"Swallow counter",
+      "SUMI-GAESHI":"Corner throw",
+      "TOMOE-NAGE":"Circular throw",
+      "KO-UCHI-MAKIKOMI":"Inner wraparound throw",
+      "TANI-OTOSHI":"Valley drop",
+      "YOKO-TOMOE-NAGE":"Side circular throw",
+      "YOKO-GURUMA":"Side wheel"
+    },
+    "GOSHIN":{
+      "DISCIPLINE":"Goshin Jutsu",
+      "FAMILLE":{
+        "A":"A - When held",
+        "B":"B - At a distance",
+        "C":"C - Dagger",
+        "D":"D - Stick",
+        "E":"E - Pistol"
+      },
+      "RYOTE-DORI":"Two-hand hold",
+      "HIDARI-ERI-DORI":"Left-lapel hold",
+      "MIGI-ERI-DORI":"Right-lapel hold",
+      "KATA-UDE-DORI":"Single-arm hold",
+      "USHIRO-ERI-DORI":"Collar hold from behind",
+      "USHIRO-JIME":"Choke from behind",
+      "KAKAE-DORI":"Seize and hold from behind",
+      "NANAME-UCHI":"Slanting strike",
+      "AGO-TSUKI":"Uppercut",
+      "GAMMEN-TSUKI":"Thrust-punch to face",
+      "MAE-GERI":"Front kick",
+      "YOKO-GERI":"Side kick",
+      "TSUKKAKE":"Thrust",
+      "CHOKU-TSUKI":"Straight thrust",
+      "NANAME-TSUKI":"Slanting stab",
+      "FURI-AGE":"Upswing against stick",
+      "FURI-OROSHI":"Downswing against stick",
+      "MOROTE-TSUKI":"Two-hand thrust against stick",
+      "SHOMEN-ZUKE":"Pistol at the abdomen",
+      "KOSHI-GAMAE":"Pistol held at the Side",
+      "HAIMEN-ZUKE":"Pistol against the Back"
+    },
+    "NAGE-NO-KATA":{
+      "DISCIPLINE":"Nage no Kata",
+      "FAMILLE":{
+        "A":"A - Hand techniques",
+        "B":"B - Hip techniques",
+        "C":"C - Foot techniques",
+        "D":"D - Rear sacrifice techniques",
+        "E":"E - Side sacrifice techniques"
+      },
+      "UKI-OTOSHI":"Floating drop",
+      "IPPON-SEOI-NAGE":"Shoulder throw",
+      "KATA-GURUMA":"Shoulder wheel",
+      "UKI-GOSHI":"Floating half-hip throw",
+      "HARAI-GOSHI":"Sweeping hip throw",
+      "TSURI-KOMI-GOSHI":"Lift-pull hip throw",
+      "OKURI-ASHI-BARAI":"Sliding foot sweep",
+      "SASAE-TSURI-KOMI-ASHI":"Propping and drawing ankle throw",
+      "UCHI-MATA":"Inner thigh wraparound throw",
+      "TOMOE-NAGE":"Circle throw",
+      "URA-NAGE":"Rear throw",
+      "SUMI-GAESHI":"Corner reversal",
+      "YOKO-GAKE":"Side hook",
+      "YOKO-GURUMA":"Side wheel",
+      "UKI-WAZA":"Floating technique"
+    },
+    "JUJITSU":{
+      "DISCIPLINE":"Jujitsu",
+      "FAMILLE":{
+        "A":"A - With hands",
+        "B":"B - With arms",
+        "C":"C - Strikes",
+        "D":"D - With weapons"
+      },
+      "KATATE-DORI":"Entering the right wrist with both hands",
+      "ERI-DORI":"Entering the right reverse",
+      "MAE-DORI-KUBI":"Front strangulation",
+      "YOKO-DORI-KUBI":"Two hands side neck strangle",
+      "YOKO-SODE-TORI":"Side grasp of the sleeve",
+      "MAE-DORI-A":"Front grasp under both arm",
+      "MAE-DORI-B":"Front grasp on neck",
+      "YOKO-DORI-A":"Side grasp on arm",
+      "YOKO-DORI-B":"Side grasp on neck",
+      "HADAKA-JIME":"Naked strangle",
+      "JODAN-OIE-TSUKI":"Direct fist high",
+      "SHUDAN-GIAKU-TSUKI":"Direct fist on plexus",
+      "JODAN-NANAME-SHUTO":"",
+      "SHUDAN-MAE-GERI-KEKOMI":"Front kick",
+      "SHUDAN-MAWAISHI-GERI":"Circular kick",
+      "NANAME-TSUKI":"Stab from top to bottom",
+      "SHUDAN-TSUKKOMI":"Front stab",
+      "NANAME-UCHI":"Slant stab",
+      "KIRI-KOMI":"Strike from top to bottom",
+      "YOKO-UCHI":"Oblique head strike"
+    }
+  },
+
+  "SETTING_SAVED":{
+    "TITLE":"Your settings have been saved for",
+    "ADD":"Added techniques:",
+    "REMOVE":"Removed techniques:",
+    "THUMBNAIL":"Thumbnail",
+    "GROUND":"Grappling (Katame-Waza)",
+    "BELT":"Belts",
+    "ATEMI":"Atemi"
+  },
+  
+  "SEARCH_RESULTS":"Result(s)"
+}

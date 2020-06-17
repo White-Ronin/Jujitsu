@@ -1,0 +1,321 @@
+{
+  "LANG":"Français",
+
+  "PAGE":{
+		"HOME":{
+      "MENU":"Accueil",
+      "DEFINITION": "Le <b>ju-jitsu</b>, ou <b>jūjutsu</b> ou encore <b>jiu-jitsu</b> (柔術, jūjutsu, littéralement : « art de la souplesse »), regroupe des techniques de combat qui furent développées durant l'ère féodale du Japon par les samouraïs pour se défendre lorsqu'ils étaient désarmés.<p>Ces techniques sont parfois classées en quatre catégories principales :<br>- <b>Atemi-Waza</b> (<i>frappes</i>),<br>- <b>Nage-Waza</b> (<i>projections</i>),<br>- <b>Kansetsu-Waza</b> (<i>luxations</i>),<br>- <b>Ne-Waza</b> (<i>travail au sol</i>).</p>",
+      "POPUP":{
+        "TITLE":"Bienvenu",
+        "BODY":"Merci d'avoir téléchargé cette application.<p>Vous trouverez en haut à gauche le \"<b>Menu</b>\".</p><p>Une version Web existe à cette adresse :<br><b><a href=\"https://jujitsu.whiteronin.xyz\" target=\"_blank\">jujitsu.whiteronin.xyz</a></b></p><p>Pour me contacter :<br><b><a href=\"mailto:contact@whiteronin.xyz\">contact@whiteronin.xyz</a></b></p>"
+      }
+    },
+    "JUDO":{
+      "MENU":"Judo",
+      "POPUP":{
+        "TITLE":"Judo (柔道, « voie de la souplesse »)",
+        "BODY":"Il a été créé en tant que pédagogie physique, mentale et morale au Japon par Jigorō Kanō (嘉納 治五郎) en 1882. Il est généralement catégorisé comme un art martial moderne, qui a par la suite évolué en sport de combat et en sport olympique.<p><i>Dans cette partie vous trouverez les noms des techniques de judo trié par couleur.</p><p>Pour voir une technique, <u>cliquez sur son nom</u> et une <b>image</b> s'affichera avec une petite description.</i></p>"
+      }
+    },
+    "JUJITSU":{
+      "MENU":"Jujitsu",
+      "POPUP":{
+        "TITLE":"Jujitsu (柔術 « art de la souplesse »)",
+        "BODY":"Il regroupe des techniques de combat qui furent développées par les samouraïs durant l'époque d'Edo.<p>Elles enseignaient aux samouraïs et aux bushis à se défendre lorsque ceux-ci étaient désarmés lors d'un duel ou sur le champ de bataille.</p><p><i>Dans cette partie vous trouverez les noms des 20 techniques de jujitsu.</p><p>Pour voir une technique, <u>cliquez sur son nom</u> et une <b>image</b> s'affichera avec une petite description.</i></p>"
+      }
+    },
+    "GOSHIN":{
+      "MENU":"Goshin Jutsu",
+      "POPUP":{
+        "TITLE":"Goshin Jutsu (講道館護身術 « techniques de self-defence »)",
+        "BODY":"Est un ensemble de Kata qui met en place des principes et des techniques d'autodéfense applicables à la société moderne.<p>C'est le plus récent Kata de <b>Judo</b>, il a été créé en 1956.</p><p>Ces techniques permettent de ce défendre avec les mains contre des attaquants armés ou non armés.</p>"
+      }
+    },
+    "NAGE-NO-KATA":{
+      "MENU":"Nage no Kata",
+      "POPUP":{
+        "TITLE":"Nage no Kata (投の形 « techniques de projection »)",
+        "BODY":"Il présente les principales formes de projection. Il est divisé en <b>5 séries</b> correspondant à <b>5 familles</b> de techniques :<br>. <b>Mains</b> (<i>Te-Waza</i>),<br>. <b>Hanches</b> (<i>Koshi-Waza</i>),<br>. <b>Pieds</b> (<i>Ashi-Waza</i>),<br>. <b>Sacrifice arrière</b> (<i>Ma-Sutemi-Waza</i>),<br>. <b>Sacrifice latéral</b> (<i>Yoko-Sutemi-Waza</i>).</p><p>L'ensemble des techniques sont effectuées à droite et à gauche et réalisées selon un déplacement préétabli.</p><p>Il s'agit ici de mettre en valeur des principes essentiels propres aux techniques de projection : le déséquilibre, le placement et la chute.</p><p>La démonstration de ce Kata en tant que Tori fait partie des tests pour le passage de la ceinture noire.</p>"
+      }
+    },
+    "LEXICON":{
+      "MENU":"Lexique",
+      "POPUP":{
+        "TITLE":"Lexique",
+        "BODY":""
+      }
+    },
+    "SEARCH":{
+      "MENU":"Rechercher",
+      "POPUP":{
+        "TITLE":"Rechercher",
+        "BODY":""
+      }
+    },
+    "EXPRESSION":{
+      "MENU":"Expression Technique",
+      "POPUP":{
+        "TITLE":"Expression Technique",
+        "BODY":"Il faut passer différents UV définis pour chaque grade.<br><br>UV1 : Kata<br>UV2 : Technique<br>UV3 : Efficacité<br>UV4 : Engagement personnel"
+      }
+    },
+    "BUSHIDO":{
+      "MENU":"Bushido",
+      "POPUP":{
+        "TITLE":"Bushido (武士道, « la voie du guerrier »)",
+        "BODY":"Cette section est consacré au <b>Bushido</b>, pour les «&nbsp;Samouraï&nbsp;»,<br>il s'agissait plus d'un mode de vie, le <b>Jujitsu</b> s'en inspire beaucoup.<p><i>Pour en savoir plus sur une des <b>7 vertues</b>, ou sur <b>Jigorō Kanō</b>, cliquez sur son nom.</i></p>"
+      },
+      "VIRTUES":{
+        "TITLE":"CODE MORAL",
+        "RIGHTEOUSNESS":{
+          "TITLE":"Droiture (義, Gi)",
+          "DESCRIPTION":"Parfois aussi traduit par « rectitude » ou « rigueur ».<br>Elle est la notion la plus puissante dans l'architecture morale du Bushidō une capacité à accomplir sans aucune hésitation ou encore le devoir d'accomplir selon le droit et la justice."
+        },
+        "COURAGE":{
+          "TITLE":"Courage (勇, Yū)",
+          "DESCRIPTION":"Est une vertu qui permet d'entreprendre des choses difficiles en surmontant la peur, et en affrontant le danger, la souffrance, la fatigue."
+        },
+        "BENEVOLENCE":{
+          "TITLE":"Bienveillance (仁, Jin)",
+          "DESCRIPTION":"Aussi traduit par « grandeur d'âme », «&nbsp;compassion&nbsp;» ou « générosité »<br>La bienveillance est la disposition affective d'une volonté<br>qui vise le bien et le bonheur d'autrui."
+        },
+        "RESPECT":{
+          "TITLE":"Politesse (礼, Rei)",
+          "DESCRIPTION":"Regroupe un ensemble de comportements sociaux qui visant à exprimer<br>la reconnaissance d'autrui et à être traité en tant que personne<br>ayant des sentiments."
+        },
+        "SINCERITY":{
+          "TITLE":"Sincérité (誠, Makoto)",
+          "DESCRIPTION":"Est l'expression fidèle des sentiments, par la vérité.<br>Il porte également le sens de loyauté."
+        },
+        "HONOR":{
+          "TITLE":"Honneur (名誉, Meiyō)",
+          "DESCRIPTION":"Est recherchée avec une attitude positive à l'esprit.<br>Le succès est un objectif honorable à atteindre."
+        },
+        "LOYALTY":{
+          "TITLE":"Loyauté (忠義, Chūgi)",
+          "DESCRIPTION":"Elle est le dévouement envers ses engagements,<br>fidélité à une cause, un pays, un group, une personne."
+        },
+        "FOUNDER":{
+          "NAME":"<b>JIGORO KANO</b>",
+          "SUB-NAME":"Fondateur du Judo",
+          "TITLE":"Jigorō Kanō (嘉納 治五郎, Kanō Jigorō)",
+          "DESCRIPTION":"Il est né le 28 octobre 1860 à Migake (Japon) et mort le 4 mai 1938 en bateau (à l'âge de 77 ans), est le fondateur du <b>Judo Kodokan</b>.<p>Le <b>Judo</b> est le premier art martial japonais à avoir obtenu une reconnaissance internationale, et le premier à avoir intégré les <b>Jeux Olympiques</b>.</p><p><b>Kanō</b> est à l'origine d'innovations pédagogiques telles que l'utilisation des ceintures noires et blanches, et l'introduction du système des grades <b>Dan</b> pour marquer la différence de niveau entre pratiquants d'un art martial.</p><p>Les maximes suivantes lui sont généralement attribuées :</p><p>- '<i>Minimum d’effort, maximum d’efficacité</i>'<br>(精力善用 Sei-ryoku Zen-you)<br>- '<i>Entraide et prospérité mutuelle</i>'<br>(自他共栄 Ji-ta Kyou-ei).</p><p>Dans sa vie professionnelle, <b>Kanō</b> était un éducateur. Il fut notamment directeur de l'enseignement primaire pour le <b>Ministère de l'éducation</b> entre 1898 et 1901, puis président de la <b>Tokyo Higher Normal School</b> de 1901 à 1920.</p><p>Il a joué un rôle majeur pour que le <b>Judo</b> et le <b>Kendo</b> entrent dans le programme des écoles publiques japonaises dans les années 1910.</p><p>Par ailleurs, il fut le premier membre asiatique du <b>Comité International Olympique</b> (CIO) (en fonction de 1909 à 1938), représenta officiellement le Japon à la plupart des <b>Jeux Olympiques</b> tenus entre 1912 et 1936, et fut porte-parole pour la candidature du Japon aux Jeux de 1940.</p>"
+        }
+      }
+    },
+    "CREDITS":{
+      "MENU":"Crédits",
+      "TITLE":"Remerciements",
+      "DESCRIPTION":"<i>Programme des ceintures</i> :<br>Fabrice LEROUGE et Claude VANHALWYN<br><br><i>Corrigé par</i> :<br>Isabelle BALAIRE, David VANDAELE et Loulou Gonzague BEGHIN<br><br><i>Pour mon club</i>:<br><b><a href=\"https://www.marcqjudo.fr\" target=\"_blank\">MARCQ JUDO</a></b><br>7 Rue des Entrepreneurs, 59700 Marcq-en-Baroeul - France<br><br><i>A mes amis</i> :<br>Qui m'ont aidé et supporté durant cette aventure.<br><br><b>Vive le Judo, vive le Jujitsu !</b>"
+    },
+    "RATE_MY_APP":{
+      "MENU":"Donner votre avis !"
+    },
+    "NETWORK":{
+      "MENU":"Réseaux",
+      "TITLE":"Retrouver moi sur"
+    }
+  },
+
+  "TECHNICAL":{
+    "ATEMI":{
+      "DISCIPLINE":"Atemi",
+      "FAMILLE":{
+        "A":"Ashi / Hiza (pied ou jambe)",
+        "B":"Te / Hiji (main ou coude)",
+        "C":"Atama (tête)"
+      },
+      "MAE-GERI":"Coup de pied direct",
+      "YOKO-GERI":"Coup de pied de côté",
+      "USHIRO-GERI":"Coup de pied arrière",
+      "MAWASHI-GERI":"Coup de pied circulaire",
+      "URA-MAWASHI-GERI":"Coup de pied circulaire inverse",
+      "MIKAZUKI-GERI":"Coup de pied circulaire vers l'intérieur avec plat du pied",
+      "SHUTO":"Frappe avec le tranchant de la main",
+      "HIGI":"Coup de coude",
+      "NANAME-TSUKI":"Coup de poing circulaire",
+      "TEISHO":"Frappe avec la paume de la main",
+      "OIE-TSUKI":"Frappe du poing, coté jambe avancée",
+      "GYAKU-TSUKI":"Frappe du poing, coté jambe arrière",
+      "URA-UCHI":"Frappe avec le revers du poing",
+      "ATAMA":"Coup de tête"
+    },
+    "GROUND":{
+      "DISCIPLINE":"Judo - Katame-Waza",
+      "FAMILLE":{
+        "A":"Osae-Komi-Waza (maintien au sol)",
+        "B":"Shime-Waza (étranglement)",
+        "C":"Kansetsu-Waza (luxation)"
+      },
+      "KAMI-SHIHO-GATAME":"Contrôle arrière sternal",
+      "KUZURE-KAMI-SHIHO-GATAME":"Contrôle arrière sternal - variante",
+      "KESA-GATAME":"Contrôle latéro-costal",
+      "KUZURE-KESA-GATAME":"Contrôle latéro-costal - variante",
+      "TATE-SHIHO-GATAME":"Contrôle des 4 points à cheval",
+      "KUZURE-TATE-SHIHO-GATAME":"Contrôle des 4 points à cheval - variante",
+      "YOKO-SHIHO-GATAME":"Contrôle latéro-sternal",
+      "KUZURE-YOKO-SHIHO-GATAME":"Contrôle latéro-sternal - variante",
+      "MAKURA-KESA-GATAME":"Contrôle latéro-costal en oreiller",
+      "USHIRO-KESA-GATAME":"Contrôle arrière latéro-costal",
+      "KATA-GATAME":"Contrôle latéro-costal par le bras et la tête",
+      "URA-GATAME":"Contrôle arrière en 'crucifix'",
+      "UKI-GATAME":"Contrôle flottant",
+      "GYAKU-JUJI-JIME":"Étranglement en croix les mains à l'envers",
+      "HADAKA-JIME":"Étranglement à bras nus",
+      "KATA-HA-JIME":"Étranglement par une épaule",
+      "KATA-JUJI-JIME":"Étranglement mains en pronation et suppination",
+      "NAMI-JUJI-JIME":"Étranglement en croix les mains à l'endroit",
+      "OKURI-ERI-JIME":"Étranglement en poursuivant le revers",
+      "SANKAKU-JIME":"Étranglement triangulaire",
+      "DO-JIME":"Constriction du tronc (technique interdite)",
+      "KATA-TE-JIME":"Étranglement avec une main",
+      "RYO-TE-JIME":"Étranglement avec deux mains",
+      "SODE-GURUMA-JIME":"Étranglement avec les manches en forme de roue",
+      "TSUKKOMI-JIME":"Étranglement en poussant",
+      "UDE-HISHIGI-JUJI-GATAME":"Luxation du coude par hyper-extension",
+      "UDE-HISHIGI-UDE-GATAME":"Luxation du coude par bras tendu",
+      "UDE-HISHIGI-WAKI-GATAME":"Luxation du coude par hyper-extension à l'aide de l'aisselle",
+      "UDE-HISHIGI-HARA-GATAME":"Luxation du coude par le ventre",
+      "UDE-HISHIGI-ASHI-GATAME":"Luxation du coude par la jambe",
+      "UDE-HISHIGI-HIZA-GATAME":"Luxation du coude par hyper-extension à l'aide du genou",
+      "UDE-GARAMI":"Luxation par enroulement du bras",
+      "ASHI-GARAMI":"Luxation du bras fléchi par la jambe (technique interdite)"
+    },
+    "JUDO":{
+      "DISCIPLINE":"Judo - Nage-Waza",
+      "FAMILLE":{
+        "A":"Koshi-Waza (hanche)",
+        "B":"Te-Waza (bras)",
+        "C":"Ashi-Waza (jambe)",
+        "D":"Sutemi-Waza (sacrifice)"
+      },
+      "HARAI-GOSHI":"Hanche fauchée",
+      "KOSHI-GURUMA":"Enroulement de la hanche",
+      "O-GOSHI":"Grande bascule de hanche",
+      "UKI-GOSHI":"Hanche flottée",
+      "USHIRO-GOSHI":"Contre de hanche arrière",
+      "TSURI-KOMI-GOSHI":"Hanche pêchée",
+      "UCHI-MATA":"Fauchage intérieur",
+      "IPPON-SEOI-NAGE":"Projection de l’épaule",
+      "TAI-OTOSHI":"Renversement du corps par barrage",
+      "MOROTE-SEOI-NAGE":"Projection d'épaule par deux mains",
+      "KATA-GURUMA":"Roue autour des épaules",
+      "TE-GURUMA":"Enroulement par les mains",
+      "UKI-OTOSHI":"Renversement du corps en abaissant le centre de gravité",
+      "KO-UCHI-GARI":"Petit fauchage intérieur",
+      "O-SOTO-GARI":"Grand fauchage extérieur",
+      "O-UCHI-GARI":"Grand fauchage intérieur",
+      "ASHI-GURUMA":"Enroulement autour de la jambe",
+      "DE-ASHI-BARAI":"Balayage du pied avancé",
+      "KO-SOTO-GARI":"Petit fauchage extérieur",
+      "HIZA-GURUMA":"Roue autour du genou",
+      "O-SOTO-OTOSHI":"Grand renversement extérieur",
+      "OKURI-ASHI-BARAI":"Balayage des deux pieds",
+      "SASAE-TSURI-KOMI-ASHI":"Blocage du pied en pêchant",
+      "TSUBAME-GAESHI":"Contre Ashi-Barai",
+      "SUMI-GAESHI":"Renversement dans l'angle",
+      "TOMOE-NAGE":"Projection en cercle",
+      "KO-UCHI-MAKIKOMI":"Fauchage de la jambe en passant par l'intérieur",
+      "TANI-OTOSHI":"Chute dans la vallée",
+      "YOKO-TOMOE-NAGE":"Projection en cercle de côté",
+      "YOKO-GURUMA":"Roue latérale"
+    },
+    "GOSHIN":{
+      "DISCIPLINE":"Goshin Jutsu",
+      "FAMILLE":{
+        "A":"A - Avec saisies",
+        "B":"B - À distance",
+        "C":"C - Tantô",
+        "D":"D - Bâton",
+        "E":"E - Pistolet"
+      },
+      "RYOTE-DORI":"Saisie des deux mains [pour donner coup de genou]",
+      "HIDARI-ERI-DORI":"Saisie du revers gauche [en poussant]",
+      "MIGI-ERI-DORI":"Saisie du revers droit [en tirant]",
+      "KATA-UDE-DORI":"Saisie d'un bras [par l'arrière en poussant sur le coude]",
+      "USHIRO-ERI-DORI":"Saisie arrière du col [en tirant]",
+      "USHIRO-JIME":"Étranglement arrière [par hadaka-jime]",
+      "KAKAE-DORI":"Ceinture [arrière par-dessus les bras]",
+      "NANAME-UCHI":"Attaque du poing en crochet sur la tempe",
+      "AGO-TSUKI":"Uppercut au menton",
+      "GAMMEN-TSUKI":"Coup de poing au visage",
+      "MAE-GERI":"Coup de pied direct",
+      "YOKO-GERI":"Coup de pied de côté",
+      "TSUKKAKE":"Coup de tantô direct",
+      "CHOKU-TSUKI":"Coup de tantô à l'estomac",
+      "NANAME-TSUKI":"Coup de tantô en oblique",
+      "FURI-AGE":"Attaque de haut en bas",
+      "FURI-OROSHI":"Attaque en diagonale vers le bas",
+      "MOROTE-TSUKI":"Attaque en piqué à deux mains",
+      "SHOMEN-ZUKE":"Pistolet à l'abdomen de face",
+      "KOSHI-GAMAE":"Pistolet à la hanche de face ",
+      "HAIMEN-ZUKE":"Pistolet dans le dos"
+    },
+    "NAGE-NO-KATA":{
+      "DISCIPLINE":"Nage no Kata",
+      "FAMILLE":{
+        "A":"A - Techniques de mains",
+        "B":"B - Techniques de hanches",
+        "C":"C - Techniques de pieds",
+        "D":"D - Techniques de sacrifice dans l’axe/arrière",
+        "E":"E - Techniques de sacrifice latéral"
+      },
+      "UKI-OTOSHI":"Renversement du corps en abaissant le centre de gravité",
+      "IPPON-SEOI-NAGE":"Projection de l’épaule",
+      "KATA-GURUMA":"Roue autour des épaules",
+      "UKI-GOSHI":"Hanche flottée",
+      "HARAI-GOSHI":"Hanche fauchée",
+      "TSURI-KOMI-GOSHI":"Hanche pêchée",
+      "OKURI-ASHI-BARAI":"Balayage des deux pieds",
+      "SASAE-TSURI-KOMI-ASHI":"Blocage du pied en pêchant",
+      "UCHI-MATA":"Fauchage intérieur",
+      "TOMOE-NAGE":"Projection en cercle",
+      "URA-NAGE":"Projection arrière",
+      "SUMI-GAESHI":"Renversement dans l'angle",
+      "YOKO-GAKE":"Crochetage latéral",
+      "YOKO-GURUMA":"Roue latérale",
+      "UKI-WAZA":"Sacrifice latéral avant"
+    },
+    "JUJITSU":{
+      "DISCIPLINE":"Jujitsu",
+      "FAMILLE":{
+        "A":"A - Avec les mains",
+        "B":"B - Avec les bras",
+        "C":"C - Coups",
+        "D":"D - Avec armes"
+      },
+      "KATATE-DORI":"Saisie du poignet droit à deux mains",
+      "ERI-DORI":"Saisie du revers droit",
+      "MAE-DORI-KUBI":"Saisie à deux mains de face au cou",
+      "YOKO-DORI-KUBI":"Saisie à deux mains de côté au cou",
+      "YOKO-SODE-TORI":"Saisie de la manche de côté",
+      "MAE-DORI-A":"Saisie de face en ceinturant sous les bras",
+      "MAE-DORI-B":"Saisie de face au cou",
+      "YOKO-DORI-A":"Saisie de côté en ceinturant les bras",
+      "YOKO-DORI-B":"Saisie de côté au cou",
+      "HADAKA-JIME":"Étranglement à bras nus",
+      "JODAN-OIE-TSUKI":"Coup de poing direct haut",
+      "SHUDAN-GIAKU-TSUKI":"Coup de poing direct plexus",
+      "JODAN-NANAME-SHUTO":"Attaque oblique avec tranchant de la main",
+      "SHUDAN-MAE-GERI-KEKOMI":"Coup de pied direct de face",
+      "SHUDAN-MAWAISHI-GERI":"Coup de pied circulaire",
+      "NANAME-TSUKI":"Piqué de haut en bas",
+      "SHUDAN-TSUKKOMI":"Piqué en face",
+      "NANAME-UCHI":"Piqué de biais en revers",
+      "KIRI-KOMI":"Attaque de haut en bas",
+      "YOKO-UCHI":"Attaque oblique à la tête"
+    }
+  },
+
+  "SETTING_SAVED":{
+    "TITLE":"Préférences sauvegardé pour le(s)",
+    "ADD":"Ajout des techniques :",
+    "REMOVE":"Suppressions des techniques :",
+    "THUMBNAIL":"Miniatures",
+    "GROUND":"Maîtrise (Katame-Waza)",
+    "BELT":"Ceintures",
+    "ATEMI":"Atemi"
+  },
+
+  "SEARCH_RESULTS":"Résultat(s)"
+}
