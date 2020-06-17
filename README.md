@@ -79,3 +79,5 @@ uk | Ukrainian
 vi | Vietnamese
 zh_CN | Chinese (China)
 zh_TW | Chinese (Taiwan)
+
+* sources: https://developer.chrome.com/webstore/i18n#localeTable
