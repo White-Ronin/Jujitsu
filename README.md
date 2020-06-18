@@ -81,3 +81,8 @@ zh_CN | Chinese (China)
 zh_TW | Chinese (Taiwan)
 
 * sources: https://developer.chrome.com/webstore/i18n#localeTable
+
+### What next? ###
+
+* If there is enough modification or languages added.
+* Publish a new version of the Jujitsu application as soon as possible.
