@@ -4,7 +4,7 @@ This README would normally document whatever steps are necessary to start and he
 
 ### What is this repository for? ###
 
-* About Jujitsu, Judo, Kodokan Goshin Jutsu, Nage-no-kata
+* About Jujitsu, Judo, Kodokan Goshin Jutsu, Nage-no-kata, kakarate
 * Bushido
 * Kanō Jigorō
 
