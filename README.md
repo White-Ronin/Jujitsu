@@ -4,7 +4,7 @@ This README would normally document whatever steps are necessary to start and he
 
 ### What is this repository for? ###
 
-* About Jujitsu, Judo, Kodokan Goshin Jutsu, Nage-no-kata
+* About Jujitsu, Judo, Kodokan-Goshin-Jutsu, Nage-no-Kata
 * Bushido
 * Kanō Jigorō
 
@@ -15,7 +15,8 @@ This README would normally document whatever steps are necessary to start and he
 
 ### How do I get set up? ###
 
-* a Git IDE to pull & push modification
+* For contributor, 'Fork' the project, modify or add files, then ask for a 'Pull request'
+* For outside collaborator, a Git IDE to pull & push modification
 * notepad, notepad++, textedit, visual code or whatever you want to open the files.
 
 ### Add a missing language: ###
